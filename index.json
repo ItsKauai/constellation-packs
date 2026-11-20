@@ -6,10 +6,10 @@
             "id": "constellation-test",
             "loader": "neoforge 26.3.0.95",
             "minecraft": "26.3",
-            "mods": 3,
+            "mods": 5,
             "name": "Constellation Test",
-            "revision": 2,
-            "updated": "2026-11-20T00:32:58Z"
+            "revision": 3,
+            "updated": "2026-11-20T01:09:37Z"
         }
     ]
 }
