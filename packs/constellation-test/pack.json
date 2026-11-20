@@ -1,0 +1,78 @@
+{
+    "format": 1,
+    "host": {
+        "address": "",
+        "name": "Matty",
+        "port": 25565
+    },
+    "id": "constellation-test",
+    "loader": {
+        "type": "neoforge",
+        "version": "26.3.0.95"
+    },
+    "minecraft": "26.3",
+    "mods": [
+        {
+            "file": "ferritecore-9.0.0-neoforge.jar",
+            "id": "ferrite-core",
+            "name": "FerriteCore",
+            "sha1": "b8bfb14ba6ce7068aae08c3a132ca40bda6bd143",
+            "side": "both",
+            "size": 71947,
+            "source": {
+                "page": "https://modrinth.com/mod/ferrite-core",
+                "project": "uXXizFIs",
+                "type": "modrinth",
+                "version": "LtVvw4uS"
+            },
+            "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/LtVvw4uS/ferritecore-9.0.0-neoforge.jar",
+            "version": "9.0.0-neoforge"
+        },
+        {
+            "file": "jei-26.3-neoforge-31.18.0.118.jar",
+            "id": "jei",
+            "name": "Just Enough Items (JEI)",
+            "sha1": "45aca90e5fc11772f4e340128553f065bab04780",
+            "side": "both",
+            "size": 7097820,
+            "source": {
+                "page": "https://modrinth.com/mod/jei",
+                "project": "u6dRKJwZ",
+                "type": "modrinth",
+                "version": "VwCkSfKi"
+            },
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/VwCkSfKi/jei-26.3-neoforge-31.18.0.118.jar",
+            "version": "31.18.0.118"
+        },
+        {
+            "file": "NovaWeather-26.3-neoforge-0.1.0.jar",
+            "id": "novaweather-26.3-neoforge-0.1.0",
+            "name": "NovaWeather-26.3-neoforge-0.1.0",
+            "sha1": "9d9665ed92e8269a746ab31dd90083d6fd0ddc3a",
+            "side": "both",
+            "size": 38796101,
+            "source": {
+                "type": "host"
+            }
+        },
+        {
+            "file": "sodium-neoforge-0.9.3-beta.5+mc26.3.jar",
+            "id": "sodium",
+            "name": "Sodium",
+            "sha1": "bf3860fda533ae409116f3303c139cd91cb77fa3",
+            "side": "client",
+            "size": 1211839,
+            "source": {
+                "page": "https://modrinth.com/mod/sodium",
+                "project": "AANobbMI",
+                "type": "modrinth",
+                "version": "CT6qQx01"
+            },
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/CT6qQx01/sodium-neoforge-0.9.3-beta.5%2Bmc26.3.jar",
+            "version": "mc26.3-0.9.3-beta.5-neoforge"
+        }
+    ],
+    "name": "Constellation Test",
+    "revision": 1,
+    "updated": "2026-11-20T00:23:23Z"
+}
