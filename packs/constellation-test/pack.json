@@ -1,7 +1,7 @@
 {
     "format": 1,
     "host": {
-        "address": "",
+        "address": "3090beast.tail990319.ts.net",
         "name": "Matty",
         "port": 25565
     },
@@ -12,6 +12,38 @@
     },
     "minecraft": "26.3",
     "mods": [
+        {
+            "file": "ferritecore-9.0.0-neoforge.jar",
+            "id": "ferrite-core",
+            "name": "FerriteCore",
+            "sha1": "b8bfb14ba6ce7068aae08c3a132ca40bda6bd143",
+            "side": "both",
+            "size": 71947,
+            "source": {
+                "page": "https://modrinth.com/mod/ferrite-core",
+                "project": "uXXizFIs",
+                "type": "modrinth",
+                "version": "LtVvw4uS"
+            },
+            "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/LtVvw4uS/ferritecore-9.0.0-neoforge.jar",
+            "version": "9.0.0-neoforge"
+        },
+        {
+            "file": "iris-neoforge-1.11.7+mc26.3.jar",
+            "id": "iris",
+            "name": "Iris Shaders",
+            "sha1": "57cbbd1f58b6226c633520541c1a3ae57c019373",
+            "side": "client",
+            "size": 2804761,
+            "source": {
+                "page": "https://modrinth.com/mod/iris",
+                "project": "YL57xq9U",
+                "type": "modrinth",
+                "version": "Ag5S66CF"
+            },
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ag5S66CF/iris-neoforge-1.11.7%2Bmc26.3.jar",
+            "version": "1.11.7+26.3-neoforge"
+        },
         {
             "file": "jei-26.3-neoforge-31.18.0.118.jar",
             "id": "jei",
@@ -57,6 +89,6 @@
         }
     ],
     "name": "Constellation Test",
-    "revision": 2,
-    "updated": "2026-11-20T00:32:58Z"
+    "revision": 3,
+    "updated": "2026-11-20T01:09:37Z"
 }
