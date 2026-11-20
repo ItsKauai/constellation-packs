@@ -13,6 +13,22 @@
     "minecraft": "26.3",
     "mods": [
         {
+            "file": "cloth-config-neoforge-26.3.159.jar",
+            "id": "cloth-config",
+            "name": "Cloth Config API",
+            "sha1": "d57fa1419228ee371b0c29abf943288d384e2d08",
+            "side": "both",
+            "size": 1135657,
+            "source": {
+                "page": "https://modrinth.com/mod/cloth-config",
+                "project": "9s6osm5g",
+                "type": "modrinth",
+                "version": "GchRXPnb"
+            },
+            "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GchRXPnb/cloth-config-neoforge-26.3.159.jar",
+            "version": "26.3.159+neoforge"
+        },
+        {
             "file": "entityculling-neoforge-1.12.1-mc26.3.jar",
             "id": "entityculling",
             "name": "Entity Culling",
@@ -105,6 +121,6 @@
         }
     ],
     "name": "Constellation Test",
-    "revision": 4,
-    "updated": "2026-11-20T01:12:09Z"
+    "revision": 5,
+    "updated": "2026-11-20T01:14:01Z"
 }
